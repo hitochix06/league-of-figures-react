@@ -1,0 +1,15 @@
+.nav {
+    font-size: 37px;
+    margin: 40px;
+}
+
+.nav-link {
+    margin: 37px;
+}
+
+
+.dropdown-menu.show {
+   
+    margin: 7px 0px 0px -266px;
+}
+
